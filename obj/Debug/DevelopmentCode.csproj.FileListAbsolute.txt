@@ -1,0 +1,9 @@
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\DevelopmentCode.dll.config
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\DevelopmentCode.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\DevelopmentCode.pdb
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\Sitecore.ContentSearch.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\Sitecore.ContentSearch.Linq.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\Sitecore.Kernel.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\obj\Debug\DevelopmentCode.csprojResolveAssemblyReference.cache
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\obj\Debug\DevelopmentCode.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\obj\Debug\DevelopmentCode.pdb

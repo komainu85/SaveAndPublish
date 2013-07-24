@@ -1,0 +1,9 @@
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\Sitecore.ContentSearch.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\Sitecore.ContentSearch.Linq.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\Sitecore.Kernel.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\obj\Debug\SaveAndPublish.csprojResolveAssemblyReference.cache
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\MikeRobbins.SaveAndPublish.dll.config
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\MikeRobbins.SaveAndPublish.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\bin\Debug\MikeRobbins.SaveAndPublish.pdb
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\obj\Debug\MikeRobbins.SaveAndPublish.dll
+C:\Development\ToolBox.SitecoreCMS\DevelopmentCode\obj\Debug\MikeRobbins.SaveAndPublish.pdb
